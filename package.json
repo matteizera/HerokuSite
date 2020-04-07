@@ -1,11 +1,10 @@
-{ "scripts": {
-    "start": "node index.js"},
-  "name": "MySite",
+{ 
+  "name": "heroku",
   "version": "1.0.0",
   "description": "Site pessoal do Lucas Malfertheiner",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
